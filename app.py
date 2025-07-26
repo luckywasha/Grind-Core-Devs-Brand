@@ -1,1 +1,1 @@
-print("Grind core first application")
+print("Hello Wash")
