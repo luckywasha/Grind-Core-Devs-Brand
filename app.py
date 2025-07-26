@@ -1,1 +1,1 @@
-print("Grind core first applicatin")
+print("Grind core first application")
